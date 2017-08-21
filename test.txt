@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 3C3F-B57E
+
+ Directory of D:\MyProjectGIT
+
+21-08-2017  11:40    <DIR>          .
+21-08-2017  11:40    <DIR>          ..
+21-08-2017  11:40                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  380,667,949,056 bytes free
